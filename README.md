@@ -166,20 +166,6 @@ Extiende el prompt de Gemini AI en el endpoint `/buscar` para soportar nuevos ti
 - [ ] Notificaciones en tiempo real
 - [ ] Modo oscuro/claro
 
-## 🤝 Contribuciones
 
-Las contribuciones son bienvenidas. Por favor:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature
-3. Commit tus cambios
-4. Push a la rama
-5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
-
----
 
 **Desarrollado con ❤️ y ⚽ por el equipo de desarrollo**
