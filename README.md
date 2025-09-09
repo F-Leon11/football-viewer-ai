@@ -1,4 +1,4 @@
-# ⚽ Visualizador de Partidos de Fútbol con Inteligencia Artificial
+# ⚽ Visualizador de Partidos de Fútbol con Inteligencia Artificial(En proceso-Puede presentar algunas fallas⚽)
 
 Una aplicación web moderna que permite consultar partidos de fútbol de la **Premier League** utilizando inteligencia artificial para filtrar y buscar información de manera natural.
 
